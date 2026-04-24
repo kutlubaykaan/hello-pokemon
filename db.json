@@ -1,0 +1,23 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "name": "Pikachu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "type": "Elektrik"
+    },
+    {
+      "id": "2",
+      "name": "Charmander",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "type": "Ateş"
+    },
+    {
+      "id": "3",
+      "name": "Squirtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "type": "Su"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
